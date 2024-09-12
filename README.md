@@ -1,10 +1,10 @@
-#Nick Carter
+# Nick Carter
 
 * Soccer
 * Videogames
 * Cybersecurity
 
-##Technical Background
+## Technical Background
 I don't have a ton of programming experience besides the basics in Java, Python, and C. I do have a lot of experience in the field of cybersecurity, having been studying cyber since my junior year of high school. I primarily like to focus with risk and compliance, but the recent "AI boom" has gotten me very interested in AI and cloud security.
 
 
